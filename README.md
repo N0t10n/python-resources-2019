@@ -28,6 +28,12 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 ### Coding Challenges
 
+* [_Kaggle_](https://www.kaggle.com/)
+
+* [_Saturdays ai_](https://www.saturdays.ai/index.html)
+
+* [_Ai for everyone_](https://www.deeplearning.ai/program/ai-for-everyone/)
+
 * [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty. After solving a few problems Stepik 
 provides a free 3 month (renewable) Educational License for the complete JetBrains suite, including PyCharm Pro.
 
