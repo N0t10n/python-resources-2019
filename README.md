@@ -1,3 +1,12 @@
+# My resources
+
+* [_Kaggle_](https://www.kaggle.com/)
+
+* [_Saturdays ai_](https://www.saturdays.ai/index.html)
+
+* [_Ai for everyone_](https://www.deeplearning.ai/program/ai-for-everyone/)
+
+
 # Python-Resources-2019
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
@@ -27,12 +36,6 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 * [_JetBrains Academy_](https://www.jetbrains.com/academy/)  Free trial on JetBrains Academy. If you are looking for a complete course start here, the Python track. "It's a one-stop shop for reading about concepts, practicing them and then immediately applying them in projects. An all-in-one learning tool."
 
 ### Coding Challenges
-
-* [_Kaggle_](https://www.kaggle.com/)
-
-* [_Saturdays ai_](https://www.saturdays.ai/index.html)
-
-* [_Ai for everyone_](https://www.deeplearning.ai/program/ai-for-everyone/)
 
 * [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty. After solving a few problems Stepik 
 provides a free 3 month (renewable) Educational License for the complete JetBrains suite, including PyCharm Pro.
